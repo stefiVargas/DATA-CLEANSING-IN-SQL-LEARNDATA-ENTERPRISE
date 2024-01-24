@@ -1,7 +1,8 @@
 
 
 
-# Learndata Enterprise- Data Cleansing in SQL
+# Learndata Enterprise- 👨‍💻💻  e-Learning
+# Data Cleansing in SQL
 
 ###
 
@@ -12,7 +13,7 @@ The resulting insights contribute to informed decision-making and a deeper under
 
 **Language:** SQL
 
-**Tools/Functions:** distinct,Where,like, Joins, Group by,Order by, Having, Sum, count
+**Tools/Functions:** Select, From,distinct,Where,like, Joins, Group by,Order by, Having, Sum, count
 
 ## Appendix
 

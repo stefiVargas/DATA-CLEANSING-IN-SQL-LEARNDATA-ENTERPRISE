@@ -87,7 +87,7 @@ FORMAT(SUM(o.importe_total_pedido),2,'es-ES') as compras
  ORDER BY SUM(o.importe_total_pedido) DESC
  LIMIT 3 ;
  
--- 9. What are the top 3 customers by purcharse ? 
+-- 9. What are the top 3 customers by purchase ? 
 -- We need to bring the full name with last name
 
 SELECT 

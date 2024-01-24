@@ -1,5 +1,6 @@
 
--- For the financial Analysis, we create the following questions. Having in mind that we're analyzing an e-commerce
+-- For the financial e-commerce analysis, i will cover the following questions: 
+
 
 ---------------------------------- BUSINESS ANALYSIS ----------------------------------------------
 
@@ -8,7 +9,8 @@
 SELECT 
 FORMAT(SUM(importe_total_pedido),2,'es-ES') as ventas
  FROM learndata.fac_pedidos; 
- 
+
+
  -- 2.What is the total sales per year?
 
 SELECT 
